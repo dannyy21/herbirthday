@@ -1,0 +1,22 @@
+.jokes-container {
+    padding: 2rem;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .jokes-container h3 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .jokes-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .jokes-container li {
+    margin: 1rem 0;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  

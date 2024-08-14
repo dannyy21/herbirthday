@@ -1,0 +1,25 @@
+.gallery-container {
+    padding: 2rem;
+    background-color: #f0f0f0;
+    text-align: center;
+  }
+  
+  .gallery-container h3 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .photos img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  

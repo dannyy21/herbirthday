@@ -1,0 +1,20 @@
+/* confetti.css */
+.confetti-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Konfeti tidak mengganggu interaksi */
+    overflow: hidden; /* Menghindari konfeti keluar dari kontainer */
+    z-index: 1000; /* Pastikan konfeti berada di atas elemen lain */
+  }
+  
+  .confetti {
+    position: absolute;
+    width: 20px; /* Ukuran konfeti, sesuaikan sesuai gambar */
+    height: 20px; /* Ukuran konfeti, sesuaikan sesuai gambar */
+    opacity: 0; /* Mulai dengan opacity 0 untuk animasi masuk */
+    background-size: cover; /* Pastikan gambar konfeti menutupi elemen */
+  }
+  

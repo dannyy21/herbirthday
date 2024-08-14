@@ -1,0 +1,10 @@
+/* balloon.css */
+.balloon {
+    position: absolute;
+    bottom: 0; /* Posisi awal di bagian bawah kontainer intro */
+    left: 50%;
+    transform: translateX(-50%);
+    pointer-events: none;
+    z-index: 10; /* Pastikan balon berada di atas konten lain */
+  }
+  

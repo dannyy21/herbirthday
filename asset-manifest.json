@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a62c514b.css",
+    "main.js": "/static/js/main.96e31d53.js",
+    "static/js/453.5712605a.chunk.js": "/static/js/453.5712605a.chunk.js",
+    "static/media/favoritegirl.mp3": "/static/media/favoritegirl.004662b37e4bb516fe7f.mp3",
+    "static/media/swap.mp3": "/static/media/swap.489ad1279d8d07eededd.mp3",
+    "static/media/snooze.mp3": "/static/media/snooze.47517bcde7ece763f5d5.mp3",
+    "static/media/foto8.png": "/static/media/foto8.07a3fa5542c8bfc61ffe.png",
+    "static/media/butler.gif": "/static/media/butler.96264863e5c97da35c8f.gif",
+    "static/media/eous.gif": "/static/media/eous.f95f9e9f4c7f87e54141.gif",
+    "static/media/cake.gif": "/static/media/cake.89e269f6923e3421e554.gif",
+    "static/media/birthday2.gif": "/static/media/birthday2.5df8ba13e5ceb9e84468.gif",
+    "static/media/her2.jpg": "/static/media/her2.b515a7fb53d00d3617eb.jpg",
+    "static/media/foto9.jpg": "/static/media/foto9.579a9f29b641d60012a8.jpg",
+    "static/media/foto7.jpg": "/static/media/foto7.7e9f48f712189ec3d9d4.jpg",
+    "static/media/foto5.jpg": "/static/media/foto5.b09500c65183b7d43b7f.jpg",
+    "static/media/birthday.gif": "/static/media/birthday.ac5de89b4dd6ef79eeb1.gif",
+    "static/media/foto10.jpg": "/static/media/foto10.f1a08bacaeb24f02885b.jpg",
+    "static/media/foto4.jpg": "/static/media/foto4.ff74aee70a646e762e25.jpg",
+    "static/media/bangbooye.png": "/static/media/bangbooye.7ecc4b2e97e742b9d376.png",
+    "static/media/sharkboo.gif": "/static/media/sharkboo.d30be59d16cbf4765ba4.gif",
+    "static/media/foto6.jpg": "/static/media/foto6.1c6b231975eee19212ee.jpg",
+    "static/media/foto2.jpg": "/static/media/foto2.8dffce8d09855e2cce24.jpg",
+    "static/media/foto3.jpg": "/static/media/foto3.ff0fb0583ff3adb326bd.jpg",
+    "static/media/her.jpg": "/static/media/her.a4e41b93a15b97e3e624.jpg",
+    "static/media/foto1.jpg": "/static/media/foto1.1174431ce64e88a4d502.jpg",
+    "static/media/cake2.gif": "/static/media/cake2.d84d568929869929f7db.gif",
+    "index.html": "/index.html",
+    "main.a62c514b.css.map": "/static/css/main.a62c514b.css.map",
+    "main.96e31d53.js.map": "/static/js/main.96e31d53.js.map",
+    "453.5712605a.chunk.js.map": "/static/js/453.5712605a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62c514b.css",
+    "static/js/main.96e31d53.js"
+  ]
+}

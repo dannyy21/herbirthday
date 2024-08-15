@@ -87,7 +87,7 @@ const Description = styled.p`
 `;
 
 const AIGeneratedNote = styled.p`
-  font-family: 'Handlee', cursive;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.2rem;
   color: #2c3e50;
   line-height: 1.6;
@@ -98,7 +98,7 @@ const AIGeneratedNote = styled.p`
   margin: 0 auto; /* Menjaga agar teks tetap terpusat */
 
   @media (max-width: 768px) {
-    font-size: 1rem; /* Sesuaikan ukuran font pada perangkat seluler */
+    // font-size: 1rem; /* Sesuaikan ukuran font pada perangkat seluler */
     padding: 10px 15px; /* Kurangi padding pada perangkat seluler */
   }
 `;

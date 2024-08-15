@@ -98,10 +98,12 @@ const AIGeneratedNote = styled.p`
   margin: 0 auto; /* Menjaga agar teks tetap terpusat */
 
   @media (max-width: 768px) {
-    // font-size: 1rem; /* Sesuaikan ukuran font pada perangkat seluler */
+    font-family: 'Poppins', sans-serif; /* Pastikan font-family tetap sama */
+    font-size: 1rem; /* Sesuaikan ukuran font pada perangkat seluler */
     padding: 10px 15px; /* Kurangi padding pada perangkat seluler */
   }
 `;
+
 
 const Gif = styled.img`
   max-width: 200px;
